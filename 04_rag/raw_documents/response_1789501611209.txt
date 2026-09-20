@@ -1,0 +1,178 @@
+data: The
+
+data:  word
+
+data:  or
+
+data:  term
+
+data:  you
+
+data: 've
+
+data:  provided
+
+data:  is
+
+data:  "
+
+data: string
+
+data: ."
+
+data:  In
+
+data:  computing
+
+data:  and
+
+data:  programming
+
+data: ,
+
+data:  a
+
+data:  string
+
+data:  is
+
+data:  a
+
+data:  sequence
+
+data:  of
+
+data:  characters
+
+data: .
+
+data:  It
+
+data:  can
+
+data:  be
+
+data:  a
+
+data:  single
+
+data:  character
+
+data:  or
+
+data:  a
+
+data:  combination
+
+data:  of
+
+data:  letters
+
+data: ,
+
+data:  numbers
+
+data: ,
+
+data:  and
+
+data:  symbols
+
+data: .
+
+data:  Strings
+
+data:  are
+
+data:  often
+
+data:  used
+
+data:  in
+
+data:  programming
+
+data:  for
+
+data:  text
+
+data:  manipulation
+
+data: ,
+
+data:  file
+
+data:  operations
+
+data: ,
+
+data:  database
+
+data:  interactions
+
+data: ,
+
+data:  and
+
+data:  more
+
+data: .
+
+
+
+data: If
+
+data:  you
+
+data:  need
+
+data:  information
+
+data:  on
+
+data:  how
+
+data:  to
+
+data:  use
+
+data:  strings
+
+data:  in
+
+data:  a
+
+data:  specific
+
+data:  programming
+
+data:  language
+
+data:  or
+
+data:  have
+
+data:  a
+
+data:  particular
+
+data:  question
+
+data:  about
+
+data:  strings
+
+data: ,
+
+data:  please
+
+data:  provide
+
+data:  more
+
+data:  details
+
+data: .
+
+data: [DONE]
+
