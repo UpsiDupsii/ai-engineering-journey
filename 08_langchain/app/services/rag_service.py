@@ -45,4 +45,4 @@ class RAGService:
         
         return [doc.page_content for doc in retrieved_docs]
 
-rag_service = RAGService()a
+rag_service = RAGService()
